@@ -52,15 +52,15 @@ bisa menggunakan syntax ini untuk mencari data
 
 #### Menghapus data 
 
-![gambar](gambar/11.jpg)
-
-### Output
-
 ![gambar](gambar/13.jpg)
 
 untuk menyelesaikan nya bisa pilih menu K otomatis program akan terhenti 
 
 ![gambar](gambar/14.jpg)
+
+### OutPut
+
+![gambar](gambar/11.jpg)
 
 
 ## Terima Kasih 
