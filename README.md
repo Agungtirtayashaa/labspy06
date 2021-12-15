@@ -59,6 +59,7 @@ untuk menyelesaikan nya bisa pilih menu K otomatis program akan terhenti
 ![gambar](gambar/14.jpg)
 
 ### OutPut
+![gambar](gambar/20.jpg)
 
 ![gambar](gambar/11.jpg)
 
