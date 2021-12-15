@@ -13,6 +13,7 @@
 ![gambar](gambar/3.jpg)
 
 Buatlah dictionary yang akan diinput dengan data,membuat perulangan dan keterangan untuk pilihan menu.
+
 Menambahkan data yang akan diinput kemudian masuk ke dalam dictiona.
 
 ![gambar](gambar/5.jpg)
@@ -59,7 +60,7 @@ bisa menggunakan syntax ini untuk mencari data
 
 untuk menyelesaikan nya bisa pilih menu K otomatis program akan terhenti 
 
-! [gambar](gambar/14.jpg)
+![gambar](gambar/14.jpg)
 
 
 ## Terima Kasih 
